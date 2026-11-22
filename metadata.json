@@ -1,0 +1,6 @@
+{
+  "name": "SnapJudge X",
+  "description": "The world's smartest AI photography mentor, featuring a panel of creative experts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
